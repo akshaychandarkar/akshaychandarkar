@@ -1,11 +1,7 @@
 ![Akshay Chandarkar](https://github.com/akshaychandarkar/akshaychandarkar/blob/main/Akshay_Chandarkar.gif)
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+!+I+am+Akshay+Chandarkar" alt="Typing SVG">
-  </a>
-</p>
 
-<h1 align="center">Hi 👋, I'm Akshay Chandarkar!</h1>
+
+<h1 align="center">A passionate Java developer with a relentless drive to craft robust and scalable applications.</h1>
 <h3 align="center">A passionate Java developer with a relentless drive to craft robust and scalable applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="akshaychandarkar" /> </p>
