@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://github.com/akshaychandarkar/akshaychandarkar/blob/main/Akshay_Chandarkar.gif" alt="Akshay Chandarkar">
-</p>
+![Akshay Chandarkar](https://github.com/akshaychandarkar/akshaychandarkar/blob/main/Akshay_Chandarkar.gif)
 
-<h1 align="center">──⚡🔷 Software Developer 🔷⚡──</h1>
+<h1 align="center">──<span style="color: orange;">⚡</span>🔷 Software Developer 🔷<span style="color: orange;">⚡</span>──</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akshaychandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="akshaychandarkar" /> </p>
 
 ## 🌐 Connect me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshaychandarkar) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=akshayrchandarkar@gmail.com)
