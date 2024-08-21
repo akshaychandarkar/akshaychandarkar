@@ -1,6 +1,6 @@
 ![Akshay Chandarkar](https://github.com/akshaychandarkar/akshaychandarkar/blob/main/Akshay_Chandarkar.gif)
 
-<h2 align="center">─── ⚡🔷 Software Developer 🔷⚡ ───</h2>
+<h3 align="center">──⚡🔷 Software Developer 🔷⚡ ──</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="akshaychandarkar" /> </p>
 
